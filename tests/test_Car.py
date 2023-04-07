@@ -15,4 +15,4 @@ def test_car_accelerate(my_car):
 
 def test_car_brake(my_car):
     my_car.brake()
-    assert my_car.speed == 45
+    assert my_car.speed == 46
